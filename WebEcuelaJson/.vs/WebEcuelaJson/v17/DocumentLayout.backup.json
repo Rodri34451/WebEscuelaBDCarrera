@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|solutionrelative:js\\table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\nav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|solutionrelative:js\\nav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\dom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|solutionrelative:js\\dom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|solutionrelative:js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|solutionrelative:js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\clases\\singletoncarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A33BCFF-E754-4A5A-BFAB-C092C71B2091}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadatos\\clases\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\clases\\singletonusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\clases\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\interfaces\\isingletoncarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\interfaces\\isingletonusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A33BCFF-E754-4A5A-BFAB-C092C71B2091}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadatos\\clases\\jsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\datos\\datoscarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\datos\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\interfaces\\iabmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\interfaces\\icarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A33BCFF-E754-4A5A-BFAB-C092C71B2091}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadatos\\interfaces\\iparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A33BCFF-E754-4A5A-BFAB-C092C71B2091}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadatos\\interfaces\\ijsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A33BCFF-E754-4A5A-BFAB-C092C71B2091}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadatos\\interfaces\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A33BCFF-E754-4A5A-BFAB-C092C71B2091}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadatos\\clases\\parentsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\capadenegocio.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\rodrigo\\desktop\\finalalgoritmos2concarrera\\webescuelabd-main\\capadenegocio\\interfaces\\igenericsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISingletonCarrera.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\ISingletonCarrera.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Interfaces\\ISingletonCarrera.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\ISingletonCarrera.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Interfaces\\ISingletonCarrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:04:59.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Clases\\Carrera.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Clases\\Carrera.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Clases\\Carrera.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Clases\\Carrera.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:04:17.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:11:08.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SingletonCarrera.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Clases\\SingletonCarrera.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Clases\\SingletonCarrera.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Clases\\SingletonCarrera.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Clases\\SingletonCarrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:04:36.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Clases\\Connection.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Clases\\Connection.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Clases\\Connection.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Clases\\Connection.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:39:45.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:10:44.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SingletonUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:09:59.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\main.js",
+              "RelativeDocumentMoniker": "js\\main.js",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\main.js",
+              "RelativeToolTip": "js\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-23T22:09:43.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "form.js",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\form.js",
+              "RelativeDocumentMoniker": "js\\form.js",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\form.js",
+              "RelativeToolTip": "js\\form.js",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwNUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-23T22:09:46.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "table.js",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\table.js",
+              "RelativeDocumentMoniker": "js\\table.js",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\table.js*",
+              "RelativeToolTip": "js\\table.js*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwFIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-23T22:10:46.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:35:35.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nav.js",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\nav.js",
+              "RelativeDocumentMoniker": "js\\nav.js",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\nav.js",
+              "RelativeToolTip": "js\\nav.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-23T22:07:15.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dom.js",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\dom.js",
+              "RelativeDocumentMoniker": "js\\dom.js",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\js\\dom.js",
+              "RelativeToolTip": "js\\dom.js",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-23T22:10:17.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISingletonUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:18:05.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Interfaces\\IParameters.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Interfaces\\IParameters.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Interfaces\\IParameters.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Interfaces\\IParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:16:38.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Clases\\JsonConverter.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Clases\\JsonConverter.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Clases\\JsonConverter.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Clases\\JsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:40:14.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatosCarrera.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Datos\\DatosCarrera.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Datos\\DatosCarrera.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Datos\\DatosCarrera.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Datos\\DatosCarrera.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:15:21.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatosUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:14:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IABMC.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:25:20.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICarrera.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\ICarrera.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Interfaces\\ICarrera.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\ICarrera.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Interfaces\\ICarrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:05:12.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Interfaces\\IJsonConverter.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Interfaces\\IJsonConverter.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Interfaces\\IJsonConverter.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Interfaces\\IJsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:40:17.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Interfaces\\IConnection.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Interfaces\\IConnection.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Interfaces\\IConnection.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Interfaces\\IConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:49:47.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ParentSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Clases\\ParentSingleton.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Clases\\ParentSingleton.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDatos\\Clases\\ParentSingleton.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Clases\\ParentSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:40:13.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:11:28.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\WebEcuelaJson\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-26T20:54:39.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CapaDeNegocio.cd",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\CapaDeNegocio.cd",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\CapaDeNegocio.cd",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\CapaDeNegocio.cd",
+              "RelativeToolTip": "..\\CapaDeNegocio\\CapaDeNegocio.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-02-26T20:04:32.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IGenericSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\IGenericSingleton.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Interfaces\\IGenericSingleton.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\FinalAlgoritmos2ConCarrera\\WebEscuelaBD-main\\CapaDeNegocio\\Interfaces\\IGenericSingleton.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Interfaces\\IGenericSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:31:56.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

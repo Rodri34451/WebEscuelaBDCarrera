@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaDeNegocio.Singleton" Collapsed="true">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAACAEgIQAAIIAADiRJAAAAAAAAQAAgIgQ=</HashCode>
+      <FileName>Clases\Singleton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CapaDeNegocio.Usuario" Collapsed="true">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIMAIAAAAAYAgAAAAAAAgAAACCAIAAAAAAAAAQCAAAI=</HashCode>
+      <FileName>Clases\Usuario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CapaDeNegocio.Datos" Collapsed="true">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAAAAAAAAAAAAAAAgCAAIAABAAAAAAAFAABI=</HashCode>
+      <FileName>Datos\DatosUsuario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CapaDeNegocio.Datos2" Collapsed="true">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAAAAAAAAAAAAAAAgCAAIAABAAAAgAAFAAAI=</HashCode>
+      <FileName>Datos\DatosCarrera.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CapaDeNegocio.Carrera" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAACAAABgACAAEAAAAAACAAIAAAIAQAAEACAAAI=</HashCode>
+      <FileName>Clases\Carrera.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="CapaDeNegocio.IParentSingleton&lt;T&gt;" Collapsed="true">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IParentSingleton.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDeNegocio.IABMC" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IABMC.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDeNegocio.IGenericSingleton&lt;T&gt;" Collapsed="true">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGenericSingleton.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDeNegocio.IID" Collapsed="true">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IID.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDeNegocio.ISingletonUsuario" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAQAAAAAAAAAAAAAACAAAAAAAAAQAQAAAAI=</HashCode>
+      <FileName>Interfaces\ISingletonUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDeNegocio.IUsuario" Collapsed="true">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAAAAAAAYAAAAAAAAAgAAAACAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Interfaces\IUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDeNegocio.ISingletonCarrera" Collapsed="true">
+    <Position X="13" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAEAAAAAAAAABAAAAAAAQAAAAAAI=</HashCode>
+      <FileName>Interfaces\ISingletonCarrera.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDeNegocio.ICarrera" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAABAACAAEAAAAAAAAAAAAAIAQAAEAAAAAA=</HashCode>
+      <FileName>Interfaces\ICarrera.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

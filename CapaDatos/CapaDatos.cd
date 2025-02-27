@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaDatos.Connection" Collapsed="true">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAEAIAAAAAAAAAAAECEAABQFIAACAACAEAAMAAAI=</HashCode>
+      <FileName>Clases\Connection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CapaDatos.JsonConverter" Collapsed="true">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Clases\JsonConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CapaDatos.ParentSingleton" Collapsed="true">
+    <Position X="8" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\ParentSingleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CapaDatos.IBasicconnection" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAQAAAACAACAAAAIAAAA=</HashCode>
+      <FileName>Interfaces\IBasicconnection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDatos.IConnection" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAEAAAAAAAAAAAAAEAAAAAAEIAAAAAAAAAAEAAAI=</HashCode>
+      <FileName>Interfaces\IConnection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDatos.IJsonConverter" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IJsonConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDatos.IParameters" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAAAAAAAAAACAAAAABAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Interfaces\IParameters.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
