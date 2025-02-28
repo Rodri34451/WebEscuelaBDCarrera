@@ -178,8 +178,8 @@ public partial class _Default : System.Web.UI.Page
 
         try
         {
-            string carrera = C.Find();
-            Response.Write(carrera);
+            string carrer = C.Find();
+            Response.Write(carrer);
         }
         catch (Exception er)
         {

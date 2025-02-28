@@ -180,7 +180,7 @@ const $$form = function () {
         const titulo = $dc.addInputForm("text", "Titulo", "titulo-carrera");
         const duracion = $dc.addInputForm("number", "Duracion", "duracion-carrera");
 
-        nombre.value = carrera.nombre
+        nombre.value = carrera.nombre;
         sigla.value = carrera.sigla;
         titulo.value = carrera.titulo;
         duracion.value = carrera.duracion;
